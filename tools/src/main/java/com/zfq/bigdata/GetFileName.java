@@ -4,7 +4,7 @@ import java.io.File;
 
 /**
  * @ClassName GetFileName
- * @Description TODO 获取文件指定目录的文件
+ * @Description TODO 获取文件指定目录的文件,远程修改，本地回拉
  * @Author ZFQ
  * @Date 2024/9/25 下午 02:21
  * @Version 1.0
