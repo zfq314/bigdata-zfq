@@ -11,6 +11,37 @@
     <modules>
         <module>tools</module>
         <module>realtime</module>
+        <module>data_warehouse</module>
+        <module>flink</module>
+        <module>flinkcdc</module>
+        <module>hive</module>
+        <module>datax</module>
+        <module>sqoop</module>
+        <module>dbsyncer</module>
+        <module>spark</module>
+        <module>java</module>
+        <module>python</module>
+        <module>scala</module>
+        <module>mysql</module>
+        <module>sqlserver</module>
+        <module>dolphinscheduler</module>
+        <module>shell</module>
+        <module>eagle</module>
+        <module>zookeeper</module>
+        <module>kafka</module>
+        <module>flume</module>
+        <module>hbase</module>
+        <module>phoenix</module>
+        <module>presto</module>
+        <module>druid</module>
+        <module>kylin</module>
+        <module>ai</module>
+        <module>impala</module>
+        <module>clickhouse</module>
+        <module>starrocks</module>
+        <module>seatunnel</module>
+        <module>doris</module>
+        <module>es</module>
     </modules>
 
     <properties>
