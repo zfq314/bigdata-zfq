@@ -1,4 +1,4 @@
-package pojo.logic;
+package cep.logic;
 
 import org.apache.flink.api.common.eventtime.SerializableTimestampAssigner;
 import org.apache.flink.api.common.eventtime.WatermarkStrategy;
@@ -9,7 +9,7 @@ import org.apache.flink.cep.pattern.Pattern;
 import org.apache.flink.cep.pattern.conditions.SimpleCondition;
 import org.apache.flink.streaming.api.datastream.KeyedStream;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
-import pojo.LoginEvent;
+import cep.pojo.LoginEvent;
 
 import java.util.List;
 import java.util.Map;
